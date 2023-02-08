@@ -1,2 +1,10 @@
-# products
-ToolsGoogle Workspace Status DashboardGoogle Workspace Status DashboardData ExportData ExportTransfer tool for unmanaged usersTransfer tool for unmanaged usersGoogle Meet video setupGoogle Meet video setupGoogle Workspace MarketplaceGoogle Workspace MarketplaceGet help from a partnerGet help from a partner 
+
+Resources for you
+article icon
+Understanding how your organization is using shared Workspace Storage
+article icon
+How to set storage limits and best practices for managing storage across organizations
+article icon
+How to free up storage in Google Workspace
+article icon
+How to increase your Google Workspace storage
